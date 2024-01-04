@@ -1,0 +1,49 @@
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\bin\Debug\Project.exe
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\bin\Debug\Project.pdb
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Clients.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Employees.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\MainWindow.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Products.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Requests.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\App.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project_MarkupCompile.cache
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project_MarkupCompile.lref
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Clients.baml
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Employees.baml
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\MainWindow.baml
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Products.baml
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Requests.baml
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.g.resources
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.Properties.Resources.resources
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.exe
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Project.pdb
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Login.g.cs
+D:\New folder\college\level three\spring 2022\Database systems 2\Project\obj\Debug\Login.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\bin\Debug\Project.exe
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\bin\Debug\Project.pdb
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Clients.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Employees.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Login.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Products.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Requests.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\App.g.cs
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Clients.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Employees.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Login.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\MainWindow.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Products.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Requests.baml
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.g.resources
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.exe
+C:\Users\Noha\Desktop\all projects\DB pharmacy WPF\ProjectDB\Project\obj\Debug\Project.pdb
